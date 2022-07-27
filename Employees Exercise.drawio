@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T12:17:41.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="n4cQsbvP4zHH35h81Flr" version="20.2.0" type="github"><diagram id="Pp36j_mKQcPenpa2n8PQ" name="Page-1">7Vttb+I4EP41fFyUF8LLxwLt3Vatrndd6XY/nVxiEm+dmHPMAvvrb0xs8uINpJSQnhSp0tYT28TzPJ5nmNn23Fm0/Y2jVfjIfEx7juVve+685zi2bY3hH2nZpZbB2EkNASe+mpQZnslPrIyWsq6Jj5PCRMEYFWRVNC5YHOOFKNgQ52xTnLZktPipKxRgw/C8QNS0/k18EabWsWdl9t8xCUJxOLB6EiE9WRmSEPlskzO5tz13xhkT6W/RdoapdJ72S7ruruLp4cU4jkWdBfff/72Zr77erx7/mAWfiXX/z+bukz1Mt/mB6Fqd+Imz79KT6UuLnfZEsiERRTGMpksWi2f1xILxIiTUf0A7tpZvkgi0eNWjacg4+QnzEYVHNhjgMRcKaNcqzHiWK9WeHCcw50kfzy6ZHtG2MPEBJUK/DaMUrRLysn8/uTBCPCDxlAnBIjVJHRtzgbeVDrUPMAG/MYuw4DuYohdoEmhq6/EmI4o9ULYwTxJNCaTIGRz2zvCDXxSEb4FzZMD5WeAILLaBJxxc7OHg7BXPGGUc7DFLASaUlkyIkiCGIcVLuUx6jsA1uVHmiPi+3HmarNCCxMHDftp8kFn+Ug6QJgbLl3R/G0JYiGGH6YqRWOwd4k3hB1w0s/pez4N3ncHYzsbwI6dzMWMxvD4ie7wwMGCDJQumnAkk0MuBn7XAPnI/TAooyN2aiLuNAT6uAtzpAG8A8GHrgE+qAHc7wBsAfNI24ForcoB/QclrJ88n5XlQlOfhuHV51ofo5PlClzeXSH9IeXacTp6vCXjr8uy4nTxfE/DW5XlgfoFOMF3KigSSq0uYYz/AWprBfyELWIzobWadhiLSUlxCvAgsOGWKY/9G1jhg+EKZ1Gbw/Dr2sa/8Dr7lu69yu77lDrXhm3zanwxH2jDf5ufPd/nRE+YEXIV5AUp5jgKQkDUE+CiQ7jsR55giQX4UP/ZXeKqlT5LO+XTALaQDh0KN3iJha77AalXGCnAw2uWmqVtS/Tlj65efc1d3vsrwM1Kmb1BzdTl3SXExTrXn+sG574h3A4P+t9GKsh3GXYZ6KkMdfLwCkuN1Gepl9WvwwTNUU7+6DLVBwNvPUCtLxF2G2gTgrWeojlkinmM4lYhw3HV5Toq0VyojjeoC2qBIV9aAO5E+7wqPP7ZI6407kb4O4K2LtFtZKO5EugnAWxdp1ywU/7kGqJaAjSAs7nT6lE4Py+0eq3WddiuLwZ1On3WL01vygXXarIZ1Ot0g4O3rdGW5rNPpJgBvX6fNcpkBdK4r4xMUsdj/EhLpcXhwR6hWXhgp3XUkRLm+T0UPx+rbo0kv18Ox+/Z5PRy8JSLd0fHU8FvuUbaVHOwKoBqNH0OhwRf7TsqxbEzBc7JplPZCTDrk8ddB4J39IbecP4zq9YeMjTzrxEYNt2Rcs95zjKJshY9x03aOcbMuJ66CYLmd4pUTu7oIHsJM1UYNIzgwS7SNIXgIBbk4YPedo5FADoyQkkWpycTtFTrNtuueE6UuGXBGNQNOVfP5GgFneKmAU96oabq+LeBcWBPHl9bEvCD2vaMX4YIM1d8VTzN01DH0zQw1C+bNBdTcf7lxCtT8BJGw2Th4mjwV6XUD5CnXY0b2meQZjE9s1DB5PLMWe054s94S3g75uYpuKh4Bg6xUS8/VZtsblaJl+9o8rkne9Mv2/yvyDUs56aj8zfRs8sIw+9vBdHr2F5ju7X8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-27T07:01:44.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="kcaCaylWF1LOMYC_wVoM" version="20.2.0" type="github">
+  <diagram id="Pp36j_mKQcPenpa2n8PQ" name="Page-1">
+    <mxGraphModel dx="1054" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JjqADpXJpMOCgIi0J_wF-36" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="8zKiFMvIt5Ifi8QIb3G6-16" target="8zKiFMvIt5Ifi8QIb3G6-15" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="175" y="680" as="sourcePoint" />
+            <mxPoint x="175.05999999999995" y="575.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JjqADpXJpMOCgIi0J_wF-48" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=-0.019;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="8zKiFMvIt5Ifi8QIb3G6-25" target="8zKiFMvIt5Ifi8QIb3G6-7" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="640" y="645" as="sourcePoint" />
+            <mxPoint x="573.06" y="635.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8zKiFMvIt5Ifi8QIb3G6-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8zKiFMvIt5Ifi8QIb3G6-15" target="8zKiFMvIt5Ifi8QIb3G6-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="525" as="sourcePoint" />
+            <mxPoint x="450" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8zKiFMvIt5Ifi8QIb3G6-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="8zKiFMvIt5Ifi8QIb3G6-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="720" as="sourcePoint" />
+            <mxPoint x="450" y="630" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8zKiFMvIt5Ifi8QIb3G6-3" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.689;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8zKiFMvIt5Ifi8QIb3G6-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="755" as="sourcePoint" />
+            <mxPoint x="640" y="705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8zKiFMvIt5Ifi8QIb3G6-4" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=0.079;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.45;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8zKiFMvIt5Ifi8QIb3G6-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="670" as="sourcePoint" />
+            <mxPoint x="551.06" y="786.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8zKiFMvIt5Ifi8QIb3G6-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Employee&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- id: int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- name: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- birth_date: Date&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- phone: int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- gender: String&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ addEmp()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ editEmp()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ deleteEmp()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="410" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="8zKiFMvIt5Ifi8QIb3G6-15" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Project&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- proj_id: int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- proj_name: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- details: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ addProj()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ delete_proj()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="400" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="8zKiFMvIt5Ifi8QIb3G6-16" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Task&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- name: String&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ addTask()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ deleteTask()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="690" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="8zKiFMvIt5Ifi8QIb3G6-21" value="self call" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" target="8zKiFMvIt5Ifi8QIb3G6-16" parent="1" source="8zKiFMvIt5Ifi8QIb3G6-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="800" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="295" y="830" />
+              <mxPoint x="320" y="830" />
+              <mxPoint x="320" y="800" />
+            </Array>
+            <mxPoint x="330" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8zKiFMvIt5Ifi8QIb3G6-24" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Department&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- dep_name: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- dep_loc: String&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ addDept()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ deleteDept()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="790" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8zKiFMvIt5Ifi8QIb3G6-25" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Qualification&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- name: String&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ addQual()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ deleteQual()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="640" width="160" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
