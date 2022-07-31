@@ -14,6 +14,11 @@ public class Qualification {
 	public void setQual_name(String qual_name) {
 		this.qual_name = qual_name;
 	}
+
+	@Override
+	public String toString() {
+		return "Qualification [qual_name=" + qual_name + "]";
+	}
 	
 	
 }
