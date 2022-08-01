@@ -146,7 +146,7 @@ public class TestEmp {
 			System.out.println("Please enter employee's id #"+(i+1)+":");
 			int id = sc.nextInt();
 			sc.nextLine();
-			employees.add(new Employee(id, null, null, 2, null, null, null, null, null));
+			employees.add(new Employee(id, null, null, 3, null, null, null, null, null));
 			
 		}
 		
